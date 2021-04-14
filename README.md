@@ -1,2 +1,10 @@
-# UndertaleProject
-For a project at school we had to recreate a small part of a game, so me and my classmate decided todo Snowdin from Undertale created by Toby Fox.
+# vertical_slice_2
+
+## To Do:
+<ul>
+<li><del>Fix sprites</del></li>
+<li>Add map</li>
+<li>add npcs</li>
+<li>make textboxes</li>
+ <li>make npcs able to talk</li>
+</ul>
